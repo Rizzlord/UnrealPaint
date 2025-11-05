@@ -1,0 +1,24 @@
+# Build artifacts
+/Binaries/
+/Build/
+/Intermediate/
+
+# Editor saves and derived content
+/Saved/
+/DerivedDataCache/
+
+# IDE cruft
+/.vs/
+/*.sln
+/*.suo
+/*.user
+/*.log
+
+# Python cache
+**/__pycache__/
+*.pyc
+
+# OS junk
+Thumbs.db
+.DS_Store
+
